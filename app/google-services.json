@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "666739563444",
+    "firebase_url": "https://whatsup-e56ba.firebaseio.com",
+    "project_id": "whatsup-e56ba",
+    "storage_bucket": "whatsup-e56ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666739563444:android:3eb26585aba55ad0",
+        "android_client_info": {
+          "package_name": "com.example.siddu.whatsup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666739563444-gr208tspt4ebv46sugom2f2kt1tjfbhk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.siddu.whatsup",
+            "certificate_hash": "552ea6646ed1164dd85a1573f036c37875f1f7d4"
+          }
+        },
+        {
+          "client_id": "666739563444-9n745171rk0g4v2j96ovh8skgpgn7aks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC993RbD8cvIrqDJWaQLS_1vOyWVmc8xLI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666739563444-9n745171rk0g4v2j96ovh8skgpgn7aks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
